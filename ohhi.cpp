@@ -6,8 +6,8 @@
  * Project 3: 0h h1
  * Fall 2020
  *
- * <#Name(s)#>
- * <#uniqname(s)#>
+ * Michaela Ianaki
+ * mianaki
  *
  * <#A description of the project here#>
  */
